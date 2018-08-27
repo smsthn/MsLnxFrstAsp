@@ -1,8 +1,14 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Microsoft.VisualStudio.TestTools.UnitTesting.Logging;
 using BooksDll.Books;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using log4net;
+using System.IO;
+using Newtonsoft.Json.Converters;
+using Newtonsoft.Json.Serialization;
+using Newtonsoft.Json;
 
 namespace BooksTest
 {
@@ -10,11 +16,19 @@ namespace BooksTest
     public class UnitTest1
     {
         private Book book;
+        private ILog log = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
 
+       [AssemblyInitialize]
+        public static void Configure(TestContext tc)
+        {
+            
+           
+        }
         [TestInitialize]
         public void setUp()
         {
             book = new Book("Name", "Catagory", "ReadingStatus", new List<string>() { "tag1", "tag2", "tag3" });
+
         }
 
         [TestMethod]
@@ -29,9 +43,13 @@ namespace BooksTest
         }
 
         [TestMethod]
-        public void AddAndRemove(){
-            Assert.AreEqual("tag1",book.RemoveTag("tag1"));
-            Assert.AreEqual(2,book.Tags.Count());
+        public void AddAndRemove()
+        {
+            Assert.AreEqual("tag1", book.RemoveTag("tag1"));
+            Assert.AreEqual(2, book.Tags.Count());
+            Assert.AreEqual("tag4", book.AddTag("tag4"));
+            string json = JsonConvert.SerializeObject(book);
+            File.WriteAllText("JsonLog.log",json);  
         }
     }
 }

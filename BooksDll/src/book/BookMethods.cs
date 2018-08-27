@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.ExceptionServices;
 
 namespace BooksDll
 {
@@ -22,6 +23,11 @@ namespace BooksDll
                 }
                 return null;
             }
+            /// <summary>
+            /// this Method Removes The givin tag if exists in Tags 
+            /// </summary>
+            /// <param name="tag"> the tag to remove</param>
+            /// <returns> the removed Tag String</returns>
             public string RemoveTag (String tag){
                 if(Tags.Contains(tag)){
                     Tags.Remove(tag);
