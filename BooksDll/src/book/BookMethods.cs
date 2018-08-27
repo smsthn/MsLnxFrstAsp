@@ -29,6 +29,20 @@ namespace BooksDll
                 }
                 return null;
             }
+            /// <summary>
+            /// this Method Removes a Tags Based on the index of it
+            /// </summary>
+            /// <param name="index"> the index to remove</param>
+            /// <throws name="ArgumentException" >in case index was not in Notes List</throws>
+            /// <returns> the removed Tag String</returns>
+            public string RemoveTag(int index){
+                if( index < 0 || index > Tags.Count()){
+                    throw new ArgumentException("Value Is Not In Notes");
+                }
+                String tag = Tags[index];
+                Tags.RemoveAt(index);
+                return tag;
+            }
         }
     }
 }
