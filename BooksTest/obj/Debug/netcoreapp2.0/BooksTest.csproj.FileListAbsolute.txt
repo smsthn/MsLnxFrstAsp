@@ -1,0 +1,17 @@
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/bin/Debug/netcoreapp2.0/BooksTest.deps.json
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/bin/Debug/netcoreapp2.0/BooksTest.runtimeconfig.json
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/bin/Debug/netcoreapp2.0/BooksTest.runtimeconfig.dev.json
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/bin/Debug/netcoreapp2.0/BooksTest.dll
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/bin/Debug/netcoreapp2.0/BooksTest.pdb
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/bin/Debug/netcoreapp2.0/BooksDll.dll
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/bin/Debug/netcoreapp2.0/BooksDll.pdb
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/obj/Debug/netcoreapp2.0/BooksTest.csprojAssemblyReference.cache
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/obj/Debug/netcoreapp2.0/BooksTest.csproj.CoreCompileInputs.cache
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/obj/Debug/netcoreapp2.0/BooksTest.AssemblyInfoInputs.cache
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/obj/Debug/netcoreapp2.0/BooksTest.AssemblyInfo.cs
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/obj/Debug/netcoreapp2.0/BooksTest.csproj.CopyComplete
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/obj/Debug/netcoreapp2.0/BooksTest.dll
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksTest/obj/Debug/netcoreapp2.0/BooksTest.pdb

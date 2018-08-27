@@ -1,0 +1,9 @@
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/release/netstandard2.0/BooksDll.deps.json
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/release/netstandard2.0/BooksDll.dll
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/release/netstandard2.0/BooksDll.pdb
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksDll/obj/Release/netstandard2.0/BooksDll.csprojAssemblyReference.cache
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksDll/obj/Release/netstandard2.0/BooksDll.csproj.CoreCompileInputs.cache
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksDll/obj/Release/netstandard2.0/BooksDll.AssemblyInfoInputs.cache
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksDll/obj/Release/netstandard2.0/BooksDll.AssemblyInfo.cs
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksDll/obj/Release/netstandard2.0/BooksDll.dll
+/home/smsthn/Documents/Net/FrstLnxAsp/MsLnxFrstAsp/BooksDll/obj/Release/netstandard2.0/BooksDll.pdb
